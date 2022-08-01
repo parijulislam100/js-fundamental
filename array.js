@@ -1,0 +1,15 @@
+var gf = ["ritu", "lima","borsha","rita","israt","mariya"];
+var actress = ["mahi","mun","tisha","tonny","munny"];
+var fruits = ["orange", "mango","banana"];
+var roll = [1,10,25,5,6,8,14,15];
+console.log(gf.length);
+console.log(actress.length);
+var total = fruits.length;
+console.log(total);
+console.log(roll.length);
+var position = gf.indexOf("ritu");
+console.log(position);
+var position2= gf.indexOf("mariya");
+console.log(position2);
+var serial = roll.indexOf(6);
+console.log(serial);
